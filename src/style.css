@@ -1,0 +1,27 @@
+:root{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+nav {
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+nav > button {
+    margin: 0px 20px;
+}
+
+
+
+.menu-item {
+    width: 400px;
+    height:400px;
+
+}
+
+.menu-item > img {
+    height: 50%;
+    width: 50%;
+}
